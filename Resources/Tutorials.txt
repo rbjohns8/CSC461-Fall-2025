@@ -1,0 +1,11 @@
+Tutorial: Programmed Introduction to MIPS Assembly Language
+https://chortle.ccsu.edu/assemblytutorial/
+
+MIPS Instruction Set Reference Sheet
+https://jarrettbillingsley.github.io/teaching/classes/cs0447/guides/instructions.html
+
+MIPS Assembly Language Programming Tutorials
+https://techwarior.com/mips-assembly-programming-tutorials/
+
+MIPS Architecture and Assembly Language Overview
+https://minnie.tuhs.org/CompArch/Resources/mips_quick_tutorial.html
